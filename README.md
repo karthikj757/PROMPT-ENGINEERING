@@ -60,6 +60,20 @@ Step 7: Finalize and Export
 # Output
 # Comprehensive Report on Generative AI  
 
+# **1. Introduction to AI and Machine Learning**
+
+Artificial Intelligence (AI) aims to create systems capable of performing tasks that normally require human intelligence. Machine Learning (ML) is a subset of AI that enables systems to learn from data and improve over time without explicit programming.
+
+* **AI Categories:**
+
+  * Narrow AI (task-specific)
+  * General AI (human-like intelligence — still theoretical)
+* **ML Types:**
+
+  * Supervised Learning
+  * Unsupervised Learning
+  * Reinforcement Learning
+
 ## 1. Foundational Concepts of Generative AI  
 
 Generative AI refers to algorithms that can generate new content, including text, images, music, and other types of data. The key concepts underpinning generative AI include:  
@@ -167,7 +181,16 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 
 Generative AI stands at the forefront of technological innovation, offering transformative capabilities across various domains. By leveraging advanced architectures like transformers and understanding the implications of scaling, researchers and practitioners can harness the potential of generative models responsibly and effectively. The continued evolution of this field promises exciting advancements that can reshape industries and everyday experiences.
 
+#  References
 
+1. Vaswani, A. et al. (2017). *Attention is All You Need*. NeurIPS.
+2. Brown, T. et al. (2020). *Language Models are Few-Shot Learners (GPT-3)*. NeurIPS.
+3. Devlin, J. et al. (2018). *BERT: Pre-training of Deep Bidirectional Transformers*. Google AI.
+4. Raffel, C. et al. (2019). *Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)*.
+5. Lewis, M. et al. (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation*. Facebook AI.
+6. Ho, J. et al. (2020). *Denoising Diffusion Probabilistic Models*. NeurIPS.
+7. OpenAI. (2023). *GPT-4 Technical Report*. [https://openai.com/research](https://openai.com/research)
+8. Google AI. (2023). *PaLM 2 Overview*. [https://ai.google](https://ai.google)
 
 # Result
 
